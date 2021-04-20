@@ -16,3 +16,5 @@ Y<- rnorm( 100)
 hist( Y)
 ```
 
+![Image of Carl frederick Gauss](/Users/brightongarrett/Desktop/Data Science 4-20-21/carl frederick gauss.jpg)
+
